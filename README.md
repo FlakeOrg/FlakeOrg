@@ -1,4 +1,4 @@
-Hey there. I am a game developer for the Roblox game Shady Joe's van of candy. I am the animator and scripter. Only use my email for bug reports, feedback, and collaboration requests.
-
-I also make some stuff. I post my projects I made here. Some of them are made in school. Some aren't.
-
+Hey there. I am a game dev and animator. I specialize in C# (FOR UNITY GAMES), HTML, CSS, animation, and saying I will do something later.
+<br>
+<br>
+If you need something, just mention me. Bye for now, if you even were reading this.
