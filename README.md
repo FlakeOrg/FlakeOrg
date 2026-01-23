@@ -9,10 +9,8 @@ I found "Flake" from a box of corn flakes and I used "Org" for what website my s
 ## What do you mean by "We think about stuff, then we make stuff."?
 
 This is a quote that I made up. I keep it as my status while I'm on Github. It shows the clear way of how we make things. We think, then we make, because we can't make without thinking, right?
-
-## What are your favorite characters?
-
-I like Benny (from the lego movie), L, Miis, and more.
+<br>
+But then at the same time you can. I don't know, I guess you can make good stuff with thinking?
 
 ## What do you make?
 
