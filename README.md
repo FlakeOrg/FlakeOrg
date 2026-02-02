@@ -6,6 +6,9 @@ Behind this profile is a goofy teenager who has no experience in javascript, and
 
 I found "Flake" from a box of corn flakes and I used "Org" for what website my sister was on while eating breakfast. Some people may know me as UnevenOpossum14, it is my old username outside of Github.
 
+## Do you have friends?
+Depends what you mean. Friends that also code, only one. Friends in general, about 20.
+
 ## What do you mean by "We think about stuff, then we make stuff."?
 
 This is a quote that I made up. I keep it as my status while I'm on Github. It shows the clear way of how we make things. We think, then we make, because we can't make without thinking, right?
