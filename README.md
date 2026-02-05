@@ -20,7 +20,7 @@ I code HTML, C# (for Unity projects), CSS, and I'm learning Javascript and Lua.
 I found "Flake" from a box of corn flakes and I used "Org" for what website my sister was on while eating breakfast. Some people may know me as UnevenOpossum14, it is my old username outside of Github.
 
 ## Do you have friends?
-Depends what you mean. Friends in general, about 20.
+Depends what you mean. Friends in general, about 20. Friends that code, none.
 
 ## What do you mean by "We think about stuff, then we make stuff."?
 
