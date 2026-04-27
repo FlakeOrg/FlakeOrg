@@ -3,13 +3,10 @@
 # Welcome to my profile!
 ## Who is behind this profile?
 
-Behind this profile is a teenager who has no experience in javascript, and is terrible at making commit messages.
-
+Behind this profile is a teenager. Wowzers.
 ## What's your history of coding?
 
 Well, it started in about 2018 when I was pretty young. I started to learn basic HTML and CSS. Then, at some point, I began to make Unity games, in about 2020. This was where I learned some basic C#. Then I took a break. A *really* long one. At some point (2023), I went back into coding. I started to try and learn how to make Roblox games. To my surprise (not really), it was hard to make Roblox games using Lua! So I didn't make much of a Roblox game. But I was still learning it. It's now 2025, and I started a test on Unity. It was pretty simple. There really wasn't much to it, I made a simple character controller and animator. I also got back into learning how to create Roblox games again. This time, I learned about animations too.
-
-Now it's 2026. I'm making a *real* game (not tests) called Skool, which is a sandbox school, on Unity. I'm starting to learn more about Unity C# and other languages.
 
 ## What languages do you code?
 
