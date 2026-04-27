@@ -46,3 +46,8 @@ Contact me at flakeorg@gmail.com
 None. :(
 <br>
 That being said, you are free to invite me to a team, or even just ask me to work on an issue for you. Just contact me, or ping me if it's on Github. I'll be glad to join.
+<br>
+Now, you probably have stuff to do. You can go now.
+<br>
+<br>
+Yeah. Like. Really. It's the end of the md.
