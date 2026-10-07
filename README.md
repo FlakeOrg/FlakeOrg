@@ -23,6 +23,10 @@ i like to exist :O
 - quantum leap
 - mob psycho 100
 - mission: impossible
-- 
-## links to my other stuff
-<a href=https://github.com/FlakeOrg>github (yes this was intentional)</a>
+- death note
+## my accomplishments (code)
+i put a fly in minecraft!
+## links to my other accounts
+<a href=https://github.com/FlakeOrg>github</a> (yes, i did just link my github to my github)
+<br>
+<a href=
