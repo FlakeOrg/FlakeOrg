@@ -13,6 +13,7 @@ i play 4 instruments; trombone, clarinet, bass clarinet, and trumpet.
 i like to exist :O
 <br>
 <br>
+actually speaking:
 ### game franchises i like:
 - hello neighbor
 - minecraft
@@ -24,9 +25,9 @@ i like to exist :O
 - mob psycho 100
 - mission: impossible
 - death note
+### books that i like:
 ## my accomplishments (code)
 i put a fly in minecraft!
-## links to my other accounts
+## links to my other accounts and some notes about it
 <a href=https://github.com/FlakeOrg>github</a> (yes, i did just link my github to my github)
 <br>
-<a href=
